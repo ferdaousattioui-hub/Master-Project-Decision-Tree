@@ -30,8 +30,8 @@ if page == "1. Présentation (PDF)":
     st.title("📂 Présentation du Projet - Arbre de Décision")
     st.write("Voici La Présentation Théorique de l'algorithme des Arbres de Décision.")
     
-    # Lien exact dyal Drive jdid dyalk
-    file_id = "146j4QhO8Xnmnd6Ky1tHmzClBIbRxEHRW/view?usp=sharing"  
+    # Lien exact 
+    file_id = "146j4QhO8Xnmnd6Ky1tHmzClBIbRxEHRW"  
     lien_drive_embed = f"https://drive.google.com/file/d/{file_id}/preview"
     
     st.components.v1.html(
